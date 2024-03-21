@@ -100,3 +100,61 @@ body {
 .coach-spotlight-description {
   margin-bottom: 3px;
 }
+
+:root {
+  --ua-blue: #336699;
+  --ua-yellow: #FFCC00;
+  --ua-green: #669966;
+  --ua-pink: rgb(178, 80, 97);
+}
+
+.custom-navbar {
+  background-color: var(--ua-yellow);
+  border-bottom: 2px solid var(--ua-blue);
+  border-left: 2px solid var(--ua-blue);
+  border-right: 2px solid var(--ua-blue);
+
+}
+
+.nav-text {
+  color: var(--ua-blue);
+}
+
+.btn-primary {
+  background-color: var(--ua-green);
+  border: 2px solid var(--ua-green);
+}
+
+.btn-primary:hover {
+  background-color: var(--ua-blue);
+  border: 2px solid var(--ua-blue);
+
+}
+
+.featurette-divider {
+  color: var(--ua-pink);
+}
+
+.navbar-brand:hover {
+  color: var(--ua-blue);
+}
+
+.carousel-description {
+  font-weight: bold;
+}
+
+.coach-link {
+  text-decoration: none;
+  color: black;
+}
+
+.coach-link:hover {
+  text-decoration: underline;
+  color: var(--ua-blue);
+}
+
+.bd-placeholder-img {
+  border: 2px solid var(--ua-pink);
+}
+
+
