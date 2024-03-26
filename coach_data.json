@@ -1,0 +1,104 @@
+{
+    "coaches": [
+        {
+            "coach-name": "Max Robinson", 
+            "coach-email": "robinsonmax80@gmail.com",
+            "coach-phone": "", 
+            "coach-location": "",
+            "coach-about": "",
+            "coach-ua-meaning": "",
+            "coach-sports": [
+                {
+                    "sport": "Football"
+                },
+                {
+                    "sport": "Basketball"
+                },
+                {
+                    "sport": "Volleyball"
+                },
+                {
+                    "sport": "Baseball"
+                }
+            ]
+        },
+        {
+            "coach-name": "Ellie Robinson", 
+            "coach-email": "ellierobinson135@gmail.com",
+            "coach-phone": "", 
+            "coach-location": "",
+            "coach-about": "",
+            "coach-ua-meaning": "",
+            "coach-sports": [
+                {
+                    "sport": "Basketball"
+                },
+                {
+                    "sport": "Volleyball"
+                },
+                {
+                    "sport": "Track and Field"
+                }
+            ]
+        }, 
+        {
+            "coach-name": "Ben Towle", 
+            "coach-email": "benjamintowle04@gmail.com",
+            "coach-phone": "", 
+            "coach-location": "",
+            "coach-about": "",
+            "coach-ua-meaning": "",
+            "coach-sports": [
+                {
+                    "sport": "Football"
+                },
+                {
+                    "sport": "Basketball"
+                },
+                {
+                    "sport": "Volleyball"
+                }
+            ]
+        },
+        {
+            "coach-name": "Jesse Pladsen", 
+            "coach-email": "jesseplads@gmail.com",
+            "coach-phone": "", 
+            "coach-location": "",
+            "coach-about": "",
+            "coach-ua-meaning": "",
+            "coach-sports": [
+                {
+                    "sport": "Football"
+                },
+                {
+                    "sport": "Soccer"
+                }
+            ]
+        },
+        {
+            "coach-name": "Anthony Potratz", 
+            "coach-email": "anthonypotratz@gmail.com",
+            "coach-phone": "", 
+            "coach-location": "",
+            "coach-about": "",
+            "coach-ua-meaning": "",
+            "coach-sports": [
+                {
+                    "sport": "Football" 
+                },
+                {
+                    "sport": "Basketball"
+                },
+                {
+                    "sport": "Volleyball"
+                },
+                {
+                    "sport": "Baseball"
+                }
+            ]
+        }
+
+        
+    ]
+}
