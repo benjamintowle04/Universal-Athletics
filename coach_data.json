@@ -1,13 +1,17 @@
 {
     "coaches": [
         {
-            "coach-name": "Max Robinson", 
-            "coach-email": "robinsonmax80@gmail.com",
-            "coach-phone": "", 
-            "coach-location": "",
-            "coach-about": "",
-            "coach-ua-meaning": "",
-            "coach-sports": [
+            "id": "max-robinson",
+            "coachName": "Max Robinson", 
+            "email": "robinsonmax80@gmail.com",
+            "phone": "", 
+            "linkedIn": "",
+            "location": "",
+            "about": "",
+            "uaMeaning": "",
+            "image1": "",
+            "image2": "",
+            "sports": [
                 {
                     "sport": "Football"
                 },
@@ -23,51 +27,57 @@
             ]
         },
         {
-            "coach-name": "Ellie Robinson", 
-            "coach-email": "ellierobinson135@gmail.com",
-            "coach-phone": "", 
-            "coach-location": "",
-            "coach-about": "",
-            "coach-ua-meaning": "",
-            "coach-sports": [
+            "id": "ellie-robinson",
+            "coachName": "Ellie Robinson", 
+            "email": "ellierobinson135@gmail.com",
+            "phone": "(651) 492-5110",
+            "linkedIn": "https://www.linkedin.com/in/ellie-robinson-42ba7b28a/", 
+            "location": "",
+            "about": " I am a freshman at Drake University majoring in Public Relations and Business Studies. I am from Eagan, MN and still live there. In my free time I love to hang out with friends, watch sports, bake, do things outdoors, go on adventures, and shop! I can’t wait to meet you and am thrilled to be a part of your journey here at Universal Athletics!",
+            "uaMeaning": "",
+            "image1": "",
+            "image2": "",
+            "sports": [
+                {
+                    "sport": "Track (Throwing)"
+                },
                 {
                     "sport": "Basketball"
-                },
-                {
-                    "sport": "Volleyball"
-                },
-                {
-                    "sport": "Track and Field"
                 }
             ]
         }, 
         {
-            "coach-name": "Ben Towle", 
-            "coach-email": "benjamintowle04@gmail.com",
-            "coach-phone": "", 
-            "coach-location": "",
-            "coach-about": "",
-            "coach-ua-meaning": "",
-            "coach-sports": [
-                {
-                    "sport": "Football"
-                },
+            "id": "ben-towle",
+            "coachName": "Ben Towle", 
+            "email": "benjamintowle04@gmail.com",
+            "phone": "(651) 399-6269", 
+            "linkedIn": "www.linkedin.com/in/benjamin-towle-31a204265",
+            "location": "Eagan, MN",
+            "about": "I am a Junior Student at Iowa State University majoring in Computer Engineering. I grew up in and currently live in Eagan, MN. I enjoy hanging out with friends and family, trying new things, and staying active in my daily life. I am excited to be a part of the Universal Athletics team and making a lasting impact on individuals near and far. ",
+            "uaMeaning": "Universal Athletics means to be a part of something greater than myself. At UA, we strive to reach out to our local communities and bring people together through sports and activities. In addition to building stronger minds and bodies, I believe our greatest impact is in building strong and inclusive communities for people who strive to better themselves.",
+            "image1": "./images/ben_towle_cs_1.jpg",
+            "image2": "./images/ben_towle_cs_2.jpg",
+            "sports": [
                 {
                     "sport": "Basketball"
                 },
                 {
-                    "sport": "Volleyball"
+                    "sport": "Football"
                 }
             ]
         },
         {
-            "coach-name": "Jesse Pladsen", 
-            "coach-email": "jesseplads@gmail.com",
-            "coach-phone": "", 
-            "coach-location": "",
-            "coach-about": "",
-            "coach-ua-meaning": "",
-            "coach-sports": [
+            "id": "jesse-pladsen",
+            "coachName": "Jesse Pladsen", 
+            "email": "jesseplads@gmail.com",
+            "phone": "", 
+            "linkedIn": "",
+            "location": "",
+            "about": "",
+            "uaMeaning": "",
+            "image1": "",
+            "image2": "",
+            "sports": [
                 {
                     "sport": "Football"
                 },
@@ -77,13 +87,17 @@
             ]
         },
         {
-            "coach-name": "Anthony Potratz", 
-            "coach-email": "anthonypotratz@gmail.com",
-            "coach-phone": "", 
-            "coach-location": "",
-            "coach-about": "",
-            "coach-ua-meaning": "",
-            "coach-sports": [
+            "id": "anthony-potratz",
+            "coachName": "Anthony Potratz", 
+            "email": "anthonypotratz@gmail.com",
+            "phone": "", 
+            "linkedIn": "",
+            "location": "",
+            "about": "",
+            "uaMeaning": "",
+            "image1": "",
+            "image2": "",
+            "sports": [
                 {
                     "sport": "Football" 
                 },
