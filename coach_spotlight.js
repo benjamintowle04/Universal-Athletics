@@ -21,7 +21,6 @@ var dataId = getUrlParameter('id');
 // You can now use the dataId variable as needed
 console.log('Data ID:', dataId);
 
-
 //Fetch the data for the particular coach
 fetch ('./coach_data.json') 
 .then (response => response.json())

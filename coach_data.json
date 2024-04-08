@@ -4,13 +4,13 @@
             "id": "max-robinson",
             "coachName": "Max Robinson", 
             "email": "robinsonmax80@gmail.com",
-            "phone": "", 
-            "linkedIn": "",
+            "phone": "(612) 757-2753", 
+            "linkedIn": "https://www.linkedin.com/in/maxwell-robinson578/",
             "location": "",
-            "about": "",
-            "uaMeaning": "",
-            "image1": "",
-            "image2": "",
+            "about": "I am a junior dual sport student athlete at Simpson College majoring in Sports Administation and minoring in Coaching and Sports Communications. I am on the football and mens volleyball team. While growing up I played a handful of sports and was lucky enough to represent Eagan High School as a captain in Football and Basketball. I enjoy being active and being around my family and friends. I am ecstatic to be a part of Universial Athletics and look forward to seeing where our journey leads us.",
+            "uaMeaning": "Sports have helped me understand how valuable and blessed we are to live and to be surrounded by life. From a young age it was instilled in me that you help others without having a reason to do so. I understand the power we have as humans and much more so as humans with influence. I want to spread positivity and build community. At UA I want our athletes to grow physically, emotionally, and mentally as we continue to take on this so-called “life” together. I live for community and positive change and am excited to build a team within Universal Athletics to spread this message and mission as far as the universe will take it!",
+            "image1": "./images/max_robinson_cs_1.jpg",
+            "image2": "./images/max_robinson_cs_2.jpg",
             "sports": [
                 {
                     "sport": "Football"
@@ -22,7 +22,7 @@
                     "sport": "Volleyball"
                 },
                 {
-                    "sport": "Baseball"
+                    "sport": "Soccer"
                 }
             ]
         },
@@ -33,10 +33,10 @@
             "phone": "(651) 492-5110",
             "linkedIn": "https://www.linkedin.com/in/ellie-robinson-42ba7b28a/", 
             "location": "",
-            "about": " I am a freshman at Drake University majoring in Public Relations and Business Studies. I am from Eagan, MN and still live there. In my free time I love to hang out with friends, watch sports, bake, do things outdoors, go on adventures, and shop! I can’t wait to meet you and am thrilled to be a part of your journey here at Universal Athletics!",
-            "uaMeaning": "",
-            "image1": "",
-            "image2": "",
+            "about": "I am a freshman at Drake University majoring in Public Relations and Business Studies. I am from Eagan, MN and still live there. In my free time I love to hang out with friends, watch sports, bake, do things outdoors, go on adventures, and shop! I can’t wait to meet you and am thrilled to be a part of your journey here at Universal Athletics!",
+            "uaMeaning": "Being a part of Universal Athletics means I have the chance to make a difference. I’m beyond excited to meet new people and create connections with others. Furthermore, having the chance to be a part of UA will allow me to step out of my comfort zone and challenge myself with new opportunities. The impact my past coaches have had on me will last a lifetime, and I would be honored to do the same for someone else.",
+            "image1": "./images/ellie_robinson_cs_1.jpg",
+            "image2": "./images/ellie_robinson_cs_2.jpg",
             "sports": [
                 {
                     "sport": "Track (Throwing)"
