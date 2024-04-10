@@ -73,8 +73,8 @@
             "phone": "", 
             "linkedIn": "",
             "location": "",
-            "about": "",
-            "uaMeaning": "",
+            "about": "I am a Junior student athlete at Simpson College majoring in History and minoring in Spanish. I am involved in the Football team as well as the Speech and Debate team. In highschool I was involved in Soccer, Football, baseball, and Basketball. I was always an active kid growing up on a 60 acere farm with my brother Alex (23) sisters Faith (25) and Danisha (30) I quickly learned how important being active is. From playing catch with my brother to just walking around our farm I loved being outside. Just being outside and getting active was always so important and beneficial to me. It helped me take my mind of any stressors or anything I was worried about and live in the moment.",
+            "uaMeaning": "Through Universal Athletics, I know that I can be a difference maker. As an aspiring teacher I have wanted to make a lasting change in the world I live in from a young age. And with this UA I know that I can be the change. Through making sports accessible in ways that other companies don’t, helping get each and every kid active and outside no matter the cost, and finally bettering already devoted student athletes and facilitating the love they have for sports. Sports have always been apart of my life and given this opportunity to pass my knowledge of sports down just gives me another reason to get out of the bed in the morning.",
             "image1": "",
             "image2": "",
             "sports": [
@@ -83,7 +83,14 @@
                 },
                 {
                     "sport": "Soccer"
+                },
+                {
+                    "sport": "Basketball"
+                },
+                {
+                    "sport": "Baseball"
                 }
+               
             ]
         },
         {
@@ -93,8 +100,8 @@
             "phone": "", 
             "linkedIn": "",
             "location": "",
-            "about": "",
-            "uaMeaning": "",
+            "about": "I am a junior student athlete at Simpson College majoring in Mathematics and Educational Studies, and minoring in Coaching. I am on the Simpson men’s volleyball team. While growing up I played a bunch of sports at Keokuk High School as a captain for basketball, football and track. I was named first team all district in basketball and football in my junior and senior year. I was also unanimously selected as conference player of the year in basketball. I also qualified to run at the state track meet during my sophomore and senior season. I have always loved doing sports with my friends and family and I would love to help other student athletes have and keep that same love for their sports. The opportunity to be a part of Universal Athletics is a once in a lifetime opportunity for me and I cannot wait to see where this program leads me and other young minds.",
+            "uaMeaning": "When I talk about Universal Athletics, the first item that I think of is the word, “opportunity”. Universal Athletics gives opportunities for every single athlete no matter the age. Universal Athletics allows opportunities for people to grow in their sport of choice and as an individual person. This opportunity also allows people and the coaches to grow as a part of a family. Everyone on the Universal Athletics staff wants every person to succeed in their sport and in life. This program allows for people to make life long bonds that they will cherish for the rest of their lives. Universal Athletics is that opportunity that allows every person to utilize and enjoy sports in their own way.",
             "image1": "",
             "image2": "",
             "sports": [
@@ -105,10 +112,10 @@
                     "sport": "Basketball"
                 },
                 {
-                    "sport": "Volleyball"
+                    "sport": "Track (Sprints)"
                 },
                 {
-                    "sport": "Baseball"
+                    "sport": "Volleyball"
                 }
             ]
         }
