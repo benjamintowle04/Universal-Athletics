@@ -16,6 +16,7 @@ body {
 .carousel {
   margin-bottom: 4rem;
 }
+
 /* Since positioning the image, we need to help out the caption */
 .carousel-caption {
   bottom: 3rem;
@@ -36,11 +37,13 @@ body {
   margin-bottom: 1.5rem;
   text-align: center;
 }
+
 /* rtl:begin:ignore */
 .marketing .col-lg-4 p {
   margin-right: .75rem;
   margin-left: .75rem;
 }
+
 /* rtl:end:ignore */
 
 
@@ -48,7 +51,8 @@ body {
 ------------------------- */
 
 .featurette-divider {
-  margin: 5rem 0; /* Space out the Bootstrap <hr> more */
+  margin: 5rem 0;
+  /* Space out the Bootstrap <hr> more */
 }
 
 /* Thin out the marketing headings */
@@ -63,6 +67,7 @@ body {
 -------------------------------------------------- */
 
 @media (min-width: 40em) {
+
   /* Bump up size of carousel content */
   .carousel-caption p {
     margin-bottom: 1.25rem;
@@ -81,12 +86,19 @@ body {
   }
 }
 
+@font-face {
+  font-family: 'Gagalin';
+  src: url('/fonts/Gagalin-Regular.otf') format('opentype');
+}
+
 #myCarousel {
   margin-bottom: 10px;
 }
+
 .row {
   margin-top: 20px;
 }
+
 .h2 {
   text-align: center;
   margin-bottom: 45px;
@@ -102,22 +114,23 @@ body {
 }
 
 :root {
-  --ua-blue: #336699;
-  --ua-yellow: #FFCC00;
-  --ua-green: #669966;
-  --ua-pink: rgb(178, 80, 97);
+  --ua-blue: #38B6FF;
+  --ua-green: #7ED957;
+  --ua-red: #FF3131;
 }
 
 .custom-navbar {
-  background-color: var(--ua-yellow);
-  border-bottom: 2px solid var(--ua-blue);
-  border-left: 2px solid var(--ua-blue);
-  border-right: 2px solid var(--ua-blue);
+  background-color: white;
+  border-bottom: 2px solid var(--ua-red);
+  border-left: 2px solid var(--ua-red);
+  border-right: 2px solid var(--ua-red);
 
 }
 
 .nav-text {
-  color: var(--ua-blue);
+  color: var(--ua-red);
+  font-family: 'Gagalin', sans-serif;
+
 }
 
 .btn-primary {
@@ -148,6 +161,7 @@ footer {
 
 .container-coach-heading {
   position: relative;
+  margin-top: 55px;
 }
 
 .coach-title {
@@ -156,11 +170,12 @@ footer {
 }
 
 .featurette-divider {
-  color: var(--ua-pink);
+  color: var(--ua-blue);
   margin: 35px;
 }
 
-.featurette-heading, .featurette-description{
+.featurette-heading,
+.featurette-description {
   text-align: center;
   margin: auto;
 }
@@ -196,18 +211,19 @@ footer {
   margin-left: 155px;
 }
 
-.col-sports, .col-sports-header{
-  border-right: 1px dotted var(--ua-pink);
+.col-sports,
+.col-sports-header {
+  border-right: 1px dotted var(--ua-blue);
 }
 
-.featurette-list .list-container{
+.featurette-list .list-container {
   margin-top: 30px;
   margin-left: 320px;
 }
 
 .contact-container {
   margin-top: 40px;
-  margin-left: 250px; 
+  margin-left: 250px;
 }
 
 .svg-col-left {
@@ -220,7 +236,7 @@ footer {
   height: 100%;
 }
 
-.contact-item{
+.contact-item {
   color: var(--ua-green);
 }
 
@@ -232,11 +248,15 @@ footer {
   margin-top: 0px;
 }
 
+.logo {
+  width: auto;
+  height: 70px;
+}
 
+.navbar-brand {
+  margin-right: 0px;
+}
 
-
-
-
-
-
-
+.nav-text:hover {
+  color: var(--ua-blue);
+}
