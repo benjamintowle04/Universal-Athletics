@@ -59,6 +59,8 @@ body {
 /* rtl:begin:remove */
 .featurette-heading {
     letter-spacing: -.05rem;
+    font-family: 'Roboto', sans-serif;
+    font-size: small;
 }
 
 /* rtl:end:remove */
@@ -130,7 +132,10 @@ body {
 .nav-text {
     color: var(--ua-red);
     font-family: 'Gagalin', sans-serif;
+}
 
+.nav-text:hover {
+    color: var(--ua-blue);
 }
 
 .btn-primary {
@@ -167,6 +172,8 @@ footer {
 .coach-title {
     margin-top: 40px;
     text-align: center;
+    font-family: 'Gagalin', sans-serif;
+    color: var(--ua-red);
 }
 
 .featurette-divider {
@@ -263,7 +270,7 @@ footer {
 }
 
 .header-description-container {
-    width:55%;
+    width: 55%;
     margin: 10px auto;
 }
 
@@ -271,3 +278,38 @@ footer {
     margin: 0 60px;
 }
 
+.image-col {
+    border: 1px solid var(--ua-blue);
+}
+
+.row {
+    display: flex;
+    /* Use flexbox for the row */
+    flex-wrap: wrap;
+    /* Allow wrapping of columns */
+
+    margin: 0 250px;
+}
+
+.image-col {
+    flex: 1;
+    /* Each column takes equal space */
+    display: flex;
+    /* Use flexbox for column content */
+    align-items: stretch;
+    /* Stretch column height to match tallest column */
+    padding: 0;
+    height: 300px;
+
+}
+
+.image-col img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.btn {
+    margin-top: 30px;
+    margin-left: 630px;
+}

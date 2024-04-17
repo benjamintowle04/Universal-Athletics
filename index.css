@@ -59,6 +59,8 @@ body {
 /* rtl:begin:remove */
 .featurette-heading {
   letter-spacing: -.05rem;
+  font-family: 'Gagalin', sans-serif;
+  color: var(--ua-red);
 }
 
 /* rtl:end:remove */
@@ -103,6 +105,8 @@ body {
 .h2 {
   text-align: center;
   margin-bottom: 45px;
+  font-family: 'Gagalin', sans-serif;
+  color: var(--ua-red);
 }
 
 .navbar-right {
