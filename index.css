@@ -129,7 +129,6 @@ body {
   border-bottom: 2px solid var(--ua-red);
   border-left: 2px solid var(--ua-red);
   border-right: 2px solid var(--ua-red);
-
 }
 
 .nav-text {
@@ -145,7 +144,6 @@ body {
 .btn-primary:hover {
   background-color: var(--ua-blue);
   border: 2px solid var(--ua-blue);
-
 }
 
 .featurette-divider {

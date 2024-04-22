@@ -23,7 +23,6 @@ fetch ('./coach_data.json')
 .then (response => response.json())
 .then (data => {
     var myCoaches = data.coaches;
-    console.log("HERE!");   
 
     for (let coach of myCoaches) {
         console.log(coach.id);
