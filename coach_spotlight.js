@@ -34,7 +34,6 @@ fetch ('./coach_data.json')
             document.getElementById('ua-meaning-content').textContent = coach.uaMeaning;
             document.getElementById('phone').textContent = coach.phone;
             document.getElementById('email').textContent = coach.email;
-            document.getElementById('linkedIn').textContent = coach.linkedIn;
 
             //Initialize sports interest
             var sports = coach.sports;

@@ -29,6 +29,18 @@ app.get("/listCoaches/:sport", async (req, res) => {
     res.send(results);
 });
 
+app.get("/listCoaches", async (req, res) => {
+    await client.connect();
+    const query = {};
+    const results = await db
+        .collection("coaches")
+        .find(query)
+        .limit(100)
+        .toArray();
+    res.status(200);
+    res.send(results);
+});
+
 app.listen(port, () => {
     console.log("App listening at http://%s:%s", host, port);
 });

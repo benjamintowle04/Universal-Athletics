@@ -141,6 +141,11 @@ body {
 .btn-primary {
     background-color: var(--ua-green);
     border: 2px solid var(--ua-green);
+    float: right;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 35px;
+    margin-bottom: auto;
 }
 
 .btn-primary:hover {
@@ -167,12 +172,7 @@ footer {
     margin-top: 55px;
 }
 
-.coach-title {
-    margin-top: 40px;
-    text-align: center;
-    font-family: 'Gagalin', sans-serif;
-    color: var(--ua-red);
-}
+
 
 .featurette-divider {
     color: var(--ua-blue);
@@ -196,6 +196,7 @@ footer {
 
 .col {
     flex: 1;
+    align-content: center;
 }
 
 .col-text-left {
@@ -311,3 +312,55 @@ footer {
     margin-top: 30px;
     margin-left: 630px;
 }
+
+.list-item {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+    width: 100%;
+    display: inline-block;
+}
+
+.list-item h4,
+.list-item p,
+.list-item a {
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.list-item h4 {
+    margin-right: 10px;
+    margin-left: 30px
+}
+
+.coach-list-header {
+    margin-top: 40px;
+    text-align: center;
+    font-family: 'Gagalin', sans-serif;
+    color: var(--ua-red);
+}
+
+.list-item-content {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.btn-secondary {
+    background-color: var(--ua-blue);
+    margin: 0;
+}
+
+.btn-secondary:hover {
+    background-color: var(--ua-red);
+}
+
+.container h5 {
+    margin-top: 0;
+    margin-bottom: 30px;
+    font-family: 'Gagalin', sans-serif;
+    color: var(--ua-red);
+}
+
