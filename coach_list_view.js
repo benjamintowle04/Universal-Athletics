@@ -94,8 +94,8 @@ function filterCoaches(data) {
                                 </svg>
                                 <h4>${coachName}</h4>
                                 <p>Location: ${location}</p>
-                                <button class="btn btn-primary">Sign Up!</button>
-                            </div>`
+                                    <a class="btn btn-primary" href="https://docs.google.com/forms/d/e/1FAIpQLSdtWPgtS_MZyi2byuqITKK1L2xDy5g-8z_92iWUN9AlSVg3mA/viewform?usp=sf_link">Sign Up!</a>
+                                </div>`
 
         coachRow.appendChild(coachCard);
 
